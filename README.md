@@ -27,7 +27,6 @@ carregarDadosDecaimento.m	Carrega dados de decaimento para integração
 MATLAB R2020b ou superior
 Toolboxes necessárias:
 Aerospace Toolbox
-Satellite Communications Toolbox
 Arquivo TLE: satellite.tle com dados do satélite
 
 4. Como Usar

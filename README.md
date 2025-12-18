@@ -137,6 +137,6 @@ Resumo do decaimento orbital
 📄 Licença
 Este projeto foi desenvolvido para fins acadêmicos e de pesquisa. Consulte os autores para uso comercial.
 
-👥 Autores
+👥 Autor
 Sistema desenvolvido para análise de missões de satélites LEO.
 
